@@ -89,7 +89,7 @@ h2 {
 p{
     color: var(--subtilte);
     margin-bottom: 2rem;
-    margin-left: 3rem;
+    margin-left: 1rem;
 }
 
 /* Animation */
@@ -130,10 +130,6 @@ p{
 @media (max-width: 1200px) {
     .animation {
         display: none;
-    }
-    form {
-        margin: auto;
-    }
-    
+    } 
 }
 
