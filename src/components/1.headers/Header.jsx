@@ -21,6 +21,7 @@ function Header() {
                 <ul className='flex'>
                     <li><a href="#about">About</a></li>
                     <li><a href="#projects">Projects</a></li>
+                    <li><a href="#skills">Skills</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
             </nav>
@@ -28,15 +29,16 @@ function Header() {
                 localStorage.setItem("theme",theme === "dark" ? "light" : "dark");
                 setTheme(localStorage.getItem("theme"));
             }}>
-                <span className="icon-moon-stroke"></span>
+            <span className="icon-moon-o"></span>
             </button>
             {show && <div className='fixed'>
                 <ul className='model'>
                     <li> 
-                        <button className="icon-x" onClick={() => setShow(false)}/>
+                        <button className="icon-cross" onClick={() => setShow(false)}/>
                     </li>
                     <li><a href="#about">About</a></li>
                     <li><a href="#projects">Projects</a></li>
+                    <li><a href="#skills">Skills</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
             </div>}

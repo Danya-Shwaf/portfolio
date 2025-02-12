@@ -57,14 +57,14 @@ header button.mode:hover {
     
 }
 
-header .icon-x {
-    font-size: 1.3rem;
+header .icon-cross {
+    font-size: 1.1rem;
     color: var(--subtilte);
     transition: 0.3s;
 }
 
-header .icon-x:hover {
-    font-size: 1.6rem;
+header .icon-cross:hover {
+    font-size: 1.3rem;
     color: crimson;
     rotate: 180deg;
 }

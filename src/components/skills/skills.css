@@ -1,0 +1,36 @@
+#skills {
+    margin: 3rem auto;    
+}
+h1 {
+    text-align: center;
+    background: linear-gradient(45deg, var(--blue), #00ffff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2.8rem;
+    margin-bottom: 3rem;
+    margin-left: 1rem;
+    letter-spacing: 1.8px;
+}
+.skills {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap; 
+    justify-content: center;
+}
+.skills div{
+    text-align: center;
+}
+
+.skills div h3 {
+    font-size: 2rem;
+    margin-bottom: 14px;
+}
+
+.skills div p {
+    font-size: 1.3rem;
+    color: var(--subtilte);  
+}
+
+.icon-github {
+    color: var(--title);
+}

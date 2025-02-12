@@ -13,7 +13,7 @@ function Hero() {
 
 I believe creativity starts with a simple idea and evolves into an inspiring experience.</p>
             <ul>
-                <li><a href="https://www.facebook.com/profile.php?id=100069862957911&mibextid=ZbWKwL"  className="icon-facebook2"></a></li>
+                <li><a href="https://www.facebook.com/profile.php?id=100069862957911&mibextid=ZbWKwL"  className="icon-facebook"></a></li>
                 <li><a href="https://github.com/Danya-Shwaf" className="icon-github"></a></li>
                 <li><a href="https://www.instagram.com/dania_shawaf?igsh=NndhNnR4MzBuaDBn"  className="icon-instagram"></a></li>
                 <li><a href="https://www.linkedin.com/in/danya-shawaf-b36777304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="icon-linkedin"></a></li>

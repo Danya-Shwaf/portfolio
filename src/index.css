@@ -60,7 +60,7 @@ html {
   margin-left: -4.8rem;
 }
 
-.icon-arrow-thin-up{
+.icon-arrow-up{
   position: fixed;
   bottom: 1rem;
   right: 3%;
@@ -73,7 +73,7 @@ html {
   border: 1px solid var(--border);
 }
 
-.icon-arrow-thin-up:hover{
+.icon-arrow-up:hover{
   cursor: pointer;
   scale: 1.1;
 
