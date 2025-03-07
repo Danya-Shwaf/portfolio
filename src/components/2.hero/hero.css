@@ -14,6 +14,7 @@
     -webkit-text-fill-color: transparent;
     animation: colorFlow 1s ease-in-out infinite;
     background-size: 200% auto;
+    text-align: left;
 }
 
 @keyframes colorFlow {

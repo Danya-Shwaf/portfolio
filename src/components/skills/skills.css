@@ -27,7 +27,7 @@ h1 {
 }
 
 .skills div p {
-    font-size: 1.3rem;
+    margin-left: -1px;
     color: var(--subtilte);  
 }
 

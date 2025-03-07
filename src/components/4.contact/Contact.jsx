@@ -14,7 +14,7 @@ function Contact() {
             <form action="" onSubmit={handleSubmit}>
                 <div>
                     <label>Email Address:</label>
-                    <input type="email" placeholder="Email Address" name="email" autoComplete="off"/>
+                    <input type="email" placeholder="Email Address" name="email" autoComplete="off" required/>
                     <ValidationError 
                     prefix="Email" 
                     field="email"
