@@ -24,6 +24,7 @@
     border-radius: 8px;
     transition: 0.3s;
     border: 1px solid var(--blue);
+    color: var(--subtilte);
 }
 
 .main_container .left_section button:hover {
@@ -87,6 +88,9 @@
     color: var(--subtilte);
     margin: 0;
     min-height: 125px;
+    font-size: 15px;
+    line-height: 1.4;
+    text-align: left;
 }
 
 .main_container .right_section .card .box hr {
@@ -117,7 +121,7 @@
 
 .main_container .right_section .card .links li a:hover {
     color: var(--blue);
-    box-shadow: 1px 1px 20px gray;
+    box-shadow: 1px 1px 15px gray;
 }
 
 .main_container .right_section .card .links li a::after {

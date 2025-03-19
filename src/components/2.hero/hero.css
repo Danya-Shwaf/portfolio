@@ -15,6 +15,7 @@
     animation: colorFlow 1s ease-in-out infinite;
     background-size: 200% auto;
     text-align: left;
+    text-align: center;
 }
 
 @keyframes colorFlow {

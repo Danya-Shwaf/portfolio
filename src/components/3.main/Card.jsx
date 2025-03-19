@@ -7,7 +7,7 @@ function Card({filter}) {
             category : "react",
             projects : [
             {
-                title: "e_planet Shopping",
+                title: "E_planet Shopping",
                 img: '/images/planet shopping.png',
                 information: "The application is an online plant shopping platform, consisting of three main pages: About Us page Plants Display page Shopping Cart page.",
                 github: "https://github.com/Danya-Shwaf/e-plantShopping.git",

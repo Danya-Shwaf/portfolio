@@ -60,6 +60,8 @@ header button.mode:hover {
 header .icon-cross {
     font-size: 1.1rem;
     color: var(--subtilte);
+    border-radius: 35%;
+    color: var(--primary);
     transition: 0.3s;
 }
 
@@ -74,6 +76,7 @@ header .icon-cross:hover {
 }
 
 /* menu model */
+
 header .fixed {
     position: fixed;
     inset: 0;
@@ -97,6 +100,7 @@ header .fixed ul.model li{
     border-bottom: 1px solid var(--border);
     padding-bottom: 0.77rem;
     padding-top: 0.5rem;
+    text-align: center;
 }
 
 header .fixed ul.model li:last-child {
