@@ -59,9 +59,8 @@ header button.mode:hover {
 
 header .icon-cross {
     font-size: 1.1rem;
-    color: var(--subtilte);
-    border-radius: 35%;
-    color: var(--primary);
+    border-radius: 50%;
+    border: 1px solid white;
     transition: 0.3s;
 }
 
