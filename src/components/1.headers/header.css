@@ -36,6 +36,10 @@ header nav {
     padding: 0.2rem;
 }
 
+.icon-moon-o {
+    cursor: pointer;
+}
+
 /* icons */
 
 header .mode, header .icon-menu{

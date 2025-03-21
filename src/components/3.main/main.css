@@ -76,7 +76,7 @@
 /* box content */
 
 .main_container .right_section .card .box {
-    padding: 0.5rem 1rem;
+    margin: 1rem 1.5rem;
 }
 
 .main_container .right_section .card .box h3 {
@@ -86,7 +86,8 @@
 
 .main_container .right_section .card .box p {
     color: var(--subtilte);
-    margin: 0;
+    margin-bottom: 1rem;
+    margin-left: 0;
     min-height: 125px;
     font-size: 15px;
     line-height: 1.4;

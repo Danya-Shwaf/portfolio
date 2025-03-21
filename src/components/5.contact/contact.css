@@ -29,7 +29,7 @@
 }
 
 .contact_us form div label{
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     color: var(--subtilte);
     margin-bottom: 1rem;
     margin-right: 1rem;
@@ -74,7 +74,6 @@
     border-radius: 8px;
     border: 1px solid white;
     transition: 0.3s;
-    
 }
 
 button:disabled {
@@ -89,8 +88,9 @@ h2 {
 p{
     color: var(--subtilte);
     margin-bottom: 2rem;
-    margin-left: 1rem;
+    margin-left: 3rem;
     text-align: center;
+    letter-spacing: 2px;
 }
 
 /* Animation */
@@ -125,6 +125,15 @@ p{
     .contact_us h1 {
         font-size: 2.5rem;
         letter-spacing: 1.6px;
+    }
+    .contact_us form div label{
+        font-size: 1.2rem;
+        color: var(--subtilte);
+        margin-bottom: 1rem;
+        margin-right: 1rem;
+    }
+    p {
+        letter-spacing: 0;
     }
 }
 @media (max-width: 1200px) {

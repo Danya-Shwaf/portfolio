@@ -13,7 +13,7 @@ h1 {
 }
 .skills {
     display: flex;
-    gap: 2rem;
+    gap: 3rem;
     flex-wrap: wrap; 
     justify-content: center;
 }

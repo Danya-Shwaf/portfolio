@@ -6,6 +6,7 @@
 
 .hero_container .left_section h1 {
     margin: 3.5rem 0;
+    margin-left: 1rem;
     font-size: 3rem;
     background: linear-gradient(to right, var(--linear1), var(--linear2));
     -webkit-background-clip: text;
@@ -14,7 +15,7 @@
     -webkit-text-fill-color: transparent;
     animation: colorFlow 1s ease-in-out infinite;
     background-size: 200% auto;
-    text-align: center;
+    text-align: left;
 }
 
 @keyframes colorFlow {
@@ -35,8 +36,7 @@
     line-height: 1.8;
     max-width: 40rem;
     margin-bottom: 2rem;
-
-
+    margin-left: 1rem;
 }
 
 .hero_container .left_section ul {
@@ -46,6 +46,7 @@
 
 .hero_container .left_section ul li{
     list-style: none;
+    margin-left: 1rem;
 }
 
 .hero_container .left_section ul li a {
@@ -81,6 +82,18 @@
 @media (max-width: 700px) {
     .hero_container .left_section h1 {
         font-size: 2rem;
+        margin-left: 0;
+        margin-right: 0;
+        text-align: center;
+    }
+
+    .hero_container .left_section p {
+        text-align: center;
+        
+    }
+
+    .hero_container .left_section ul {
+        justify-content: center
     }
     
 }
