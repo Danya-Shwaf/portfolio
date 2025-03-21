@@ -2,9 +2,9 @@ import { useEffect  , useState} from 'react';
 import Header from'./components/1.headers/Header';
 import Hero from './components/2.hero/Hero';
 import Main from './components/3.main/Main';
-import Contact from './components/4.contact/Contact';
-import Footer from './components/5.footer/Footer';
-import Skills from './components/skills/Skills';
+import Contact from './components/5.contact/Contact';
+import Footer from './components/6.footer/Footer';
+import Skills from './components/4.skills/Skills';
 import './index.css';
 function App() {
   let [showBTN , setShowBTN] = useState(false);
