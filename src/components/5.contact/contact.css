@@ -21,6 +21,10 @@
     justify-content: space-between;
 }
 
+.contact_us form {
+    margin-top: 4rem;
+}
+
 .contact_us form div {
     margin-top: 0.5rem;
     display: flex;
@@ -97,7 +101,7 @@ h2 {
 
 .animation {
     width: 400px;
-    height: 200px;
+
 }
 
 /* responsive design*/ 
@@ -160,6 +164,9 @@ h2 {
     .contact_us form div input,
     .contact_us form div textarea {
         width: auto;
+    }
+    .contact_us form {
+        margin-top: 1rem;
     }
 }
 
