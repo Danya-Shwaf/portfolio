@@ -13,6 +13,7 @@
 .contact_us .icon-envelope {
     font-size: 2.4rem;
     color: var(--subtilte);
+    margin-right: 0.4rem;
 }
 
 .contact_container {
