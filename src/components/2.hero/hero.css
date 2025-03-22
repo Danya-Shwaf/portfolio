@@ -89,7 +89,8 @@
 
     .hero_container .left_section p {
         text-align: center;
-        
+        line-height: 1.6;
+        margin: 2rem auto;
     }
 
     .hero_container .left_section ul {

@@ -34,3 +34,9 @@ h1 {
 .icon-github {
     color: var(--title);
 }
+
+@media (max-width: 627px){
+    .skills {
+        gap: 2rem;
+}
+}
