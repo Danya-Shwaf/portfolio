@@ -124,6 +124,9 @@
     padding-bottom: 3px;
 }
 
+.main_container .right_section .card .links li .live {
+    font-size: 0.9rem;
+}
 .main_container .right_section .card .links li a:hover {
     color: var(--blue);
     box-shadow: 1px 1px 15px gray;
