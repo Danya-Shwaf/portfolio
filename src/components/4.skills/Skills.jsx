@@ -31,7 +31,7 @@ function Skills() {
             </div>
             <div>
                 <h3 className="icon-redux"></h3>
-                <p>Redux</p>
+                <p>Redux Toolkit</p>
             </div>
             <div>
                 <h3 className="icon-git"></h3>

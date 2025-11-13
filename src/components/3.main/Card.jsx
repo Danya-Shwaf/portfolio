@@ -14,6 +14,14 @@ function Card({filter}) {
                 github: "https://github.com/Danya-Shwaf/e-plantShopping.git",
                 live: "https://e-plant-shopping-eq9g.vercel.app/"
             },
+            {
+                title: "Admin Dashboard",
+                img: '/images/admin dashboard.png',
+                tech: "react mui react-router-dom react-hook-form full-calendar nivo (for charts)",
+                information: "A modern and fully responsive admin dashboard built with React, Vite, and Material UI. Includes interactive charts, data grids, and calendar integration for managing and visualizing data efficiently.",
+                github: "hhttps://github.com/Danya-Shwaf/Admin-Dashboard",
+                live: "https://admin-dashboard-one-rho-52.vercel.app/"
+            },
         ]},
         {
             category : "javascript",
