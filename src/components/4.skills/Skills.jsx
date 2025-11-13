@@ -18,10 +18,6 @@ function Skills() {
                 <p>Tailwind</p>
             </div>
             <div>
-                <h3 className="icon-bootstrap"></h3>
-                <p>Bootstrap</p>
-            </div>
-            <div>
                 <h3 className="icon-javascript"></h3>
                 <p>JS</p>
             </div>
@@ -41,6 +37,14 @@ function Skills() {
                 <h3 className="icon-github"></h3>
                 <p>Github</p>
             </div>
+            {/* <div>
+                <h3 className="icon-github"></h3>
+                <p>React Query</p>
+            </div>
+            <div>
+                <h3 className="icon-mui"></h3>
+                <p>MUI</p>
+            </div> */}
             </div>
         </div>
     );
