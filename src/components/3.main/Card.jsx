@@ -19,8 +19,16 @@ function Card({filter}) {
                 img: '/images/admin dashboard.png',
                 tech: "react mui react-router-dom react-hook-form full-calendar nivo (for charts)",
                 information: "A modern and fully responsive admin dashboard built with React, Vite, and Material UI. Includes interactive charts, data grids, and calendar integration for managing and visualizing data efficiently.",
-                github: "hhttps://github.com/Danya-Shwaf/Admin-Dashboard",
+                github: "https://github.com/Danya-Shwaf/Admin-Dashboard",
                 live: "https://admin-dashboard-one-rho-52.vercel.app/"
+            },
+            {
+                title: "ُElectronic Payment System",
+                img: '/images/electronic Payment System.png',
+                tech: "react tailwind react-router-dom ",
+                information: "An advanced electronic payment system that allows users to manage their wallets,transfer money securely, and view transaction history.The system supports multi-language and is built with React and Tailwind for a modern and responsive design.",
+                github: "https://github.com/Danya-Shwaf/electronic-payment-system",
+                live: "https://electronic-payment-system.vercel.app/"
             },
         ]},
         {
