@@ -32,6 +32,7 @@ function Card({filter}) {
             },
         ]},
         {
+            
             category : "javascript",
             projects : [
                 {
